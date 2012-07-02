@@ -1,4 +1,4 @@
-# Daniel Marino’s dotfiles
+# Ryan Keairns’s dotfiles
 Based on @paulirish's and @mathiasbynens's dotfiles
 
 ## Installation
@@ -8,7 +8,7 @@ Based on @paulirish's and @mathiasbynens's dotfiles
 The bootstrapper script will pull in the latest version and copy the files to your home folder.
 
 ```bash
-git clone https://github.com/starzonmyarmz/dotfiles.git && cd dotfiles && ./bootstrap.sh
+git clone https://github.com/ryankeairns/dotfiles.git && cd dotfiles && ./bootstrap.sh
 ```
 
 To update, `cd` into your local `dotfiles` repository and then:
